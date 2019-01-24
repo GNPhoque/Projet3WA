@@ -38,9 +38,6 @@ public class MainPageActivity extends AppCompatActivity {
         }
     }
 
-    public void onClickLogout(View v){
-    }
-
     @Override
     public void finish() {
         super.finish();
